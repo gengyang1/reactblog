@@ -1,0 +1,8 @@
+.sy_left{
+    display: flex;
+    align-items: center;
+}
+
+.header-txt{
+    margin-top: .5rem;
+}
