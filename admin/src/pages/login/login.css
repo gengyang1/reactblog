@@ -1,0 +1,17 @@
+.login-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+body{
+    background-color: #f0f0f0;
+    height: 100%;
+}
+body>div{
+    height: 100%;
+}
+.login-div .ant-spin-nested-loading {
+    width: 400px;
+}
+
