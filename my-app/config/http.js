@@ -8,7 +8,7 @@ import axios from 'axios'
 
 // axios 配置
 axios.defaults.timeout = 5000
-axios.defaults.baseURL = 'http://localhost:7001'
+axios.defaults.baseURL = 'http://gengyang.top'
 
 
 // http request 拦截器
