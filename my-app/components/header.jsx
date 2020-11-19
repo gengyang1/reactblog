@@ -38,7 +38,7 @@ const Header = ({router, count, changeNav, loadHead, setLoadHead }) => {
         <div className="header">
             <Row type="flex" justify="center">
                 <Col className="sy_left"  xs={24} sm={24} md={10} lg={10} xl={10}>
-                    <span className="header-logo">StyudyYou</span>
+                    <span className="header-logo">天马行空</span>
                     <span className="header-txt">专注前端开发</span>
                 </Col>
             
