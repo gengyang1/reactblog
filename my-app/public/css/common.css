@@ -120,11 +120,16 @@ body {
 }
 
 .footer-div{
-    text-align: center;
+    display: flex;
+    justify-content: center;
     width: 100%;
     padding: 1rem;
     color:#888;
     background: #111;
+}
+
+.footer-div a{
+    margin-left: 20px;
 }
 
 
